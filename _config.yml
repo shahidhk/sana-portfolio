@@ -4,7 +4,7 @@ email: "www.shahanasana48@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
   Creative works by Shahana.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://sana.shahidh.in" # the base hostname & protocol for your site
 # twitter_username: ""
 # github_username: ""
 
