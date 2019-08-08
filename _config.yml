@@ -1,8 +1,8 @@
 # Site settings
-title: Shahana's Art
+title: Shahana's Portfolio
 email: "www.shahanasana48@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
-  Drawings and artwork by Shahana Karippayi.
+  Creative works by Shahana.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: ""
