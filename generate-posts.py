@@ -8,10 +8,10 @@ from string import Template
 frontmatter = Template("""---
 layout: post
 title: "$title"
-preview: images/$file_name
+preview: images/$file_name?nf_resize=fit&w=300
 ---
 
-![$title](/images/$file_name)
+![$title](/images/$file_name?nf_resize=fit&w=900)
 """)
 
 images_dir = "./images"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sunset Miracle"
-preview: images/sunset-miracle.jpg
+preview: images/sunset-miracle.jpg?nf_resize=fit&w=300
 ---
 
-![Sunset Miracle](/images/sunset-miracle.jpg)
+![Sunset Miracle](/images/sunset-miracle.jpg?nf_resize=fit&w=900)

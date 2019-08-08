@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crybaby"
-preview: images/crybaby.jpg
+preview: images/crybaby.jpg?nf_resize=fit&w=300
 ---
 
-![Crybaby](/images/crybaby.jpg)
+![Crybaby](/images/crybaby.jpg?nf_resize=fit&w=900)
