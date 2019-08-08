@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Crybaby!"
+title: "Crybaby"
 preview: images/crybaby.jpg
 ---
 
-![crybaby](/images/crybaby.jpg)
+![Crybaby](/images/crybaby.jpg)

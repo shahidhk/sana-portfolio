@@ -1,5 +1,7 @@
-# urban-theme
+# sana-portfolio
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
+A Jekyll based portfolio website for showcasing Sana's artwork.
 
-Live-Demo: http://narkotyk.net/
+Add images to `images` directory and re-generate the posts using `generate-posts.py`.
+
+This is forked from https://github.com/midzer/urban-theme
