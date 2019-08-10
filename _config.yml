@@ -1,6 +1,6 @@
 # Site settings
 title: Shahana's Portfolio
-email: "www.shahanasana48@gmail.com"
+email: ""
 description: > # this means to ignore newlines until "baseurl:"
   Creative works by Shahana.
 baseurl: "" # the subpath of your site, e.g. /blog
