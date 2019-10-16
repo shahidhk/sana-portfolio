@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Seasons"
+preview: images/seasons.jpg?nf_resize=fit&w=300
+---
+
+![Seasons](/images/seasons.jpg?nf_resize=fit&w=900)
