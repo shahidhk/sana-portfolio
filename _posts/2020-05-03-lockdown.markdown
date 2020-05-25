@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Lockdown"
+preview: images/lockdown.jpg?nf_resize=fit&w=300
+---
+
+![Lockdown](/images/lockdown.jpg?nf_resize=fit&w=900)

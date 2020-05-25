@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Patterns"
+preview: images/patterns.jpg?nf_resize=fit&w=300
+---
+
+![Patterns](/images/patterns.jpg?nf_resize=fit&w=900)

@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Viel"
+preview: images/viel.jpg?nf_resize=fit&w=300
+---
+
+![Viel](/images/viel.jpg?nf_resize=fit&w=900)
