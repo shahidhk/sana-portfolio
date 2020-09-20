@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Dreams"
+preview: images/dreams.jpg?nf_resize=fit&w=300
+---
+
+![Dreams](/images/dreams.jpg?nf_resize=fit&w=900)
